@@ -1,0 +1,2 @@
+loss: 0.0207 - char_1_loss: 0.0036 - char_2_loss: 0.0046 - char_3_loss: 0.0046 - char_4_loss: 0.0044 - char_5_loss: 0.0035 - char_1_acc: 0.9988 - char_2_acc: 0.9984 - char_3_acc: 0.9985 - char_4_acc: 0.9986 - char_5_acc: 0.9988 - val_loss: 0.2392 - val_char_1_loss: 0.0407 - val_char_2_loss: 0.0646 - val_char_3_loss: 0.0496 - val_char_4_loss: 0.0501 - val_char_5_loss: 0.0341 - val_char_1_acc: 0.9897 - val_char_2_acc: 0.9844 - val_char_3_acc: 0.9872 - val_char_4_acc: 0.9876 - val_char_5_acc: 0.9908
+Epoch 00010: early stopping
